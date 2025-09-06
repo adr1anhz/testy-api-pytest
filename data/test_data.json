@@ -1,0 +1,12 @@
+{
+  "new_user": {
+    "name": "Adrian Nazwisko",
+    "username": "adrian",
+    "email": "adrian@mail.com"
+  },
+  "new_post": {
+    "userId": 1,
+    "title": "pierwszy post",
+    "body": "post post post"
+  }
+}

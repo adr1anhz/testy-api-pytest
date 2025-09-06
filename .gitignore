@@ -1,0 +1,15 @@
+# Środowisko wirtualne
+venv/
+
+# Pliki cache Pythona
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cache testów pytest
+.pytest_cache/
+
+# Konfiguracja IDE/edytorów
+.vscode/
+.idea/
